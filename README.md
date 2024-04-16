@@ -1,10 +1,9 @@
-
+## local Development
 
 ```bash
 $ pnpm run init
 ```
 
-## Development
 
 ```bash
 $ pnpm run dev
